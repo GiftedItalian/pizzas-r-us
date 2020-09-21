@@ -3,7 +3,7 @@
 A Windows desktop application I created using C# and Visual Studio's WinForms framework. The application was created for my Programming unit in a level 3 Computing course I took. The application was developed for a hypothetical Pizza business that needed a Desktop application built for their tills in order to quickly calculate customer orders.
 
 ## Installation
-Visual Studio installation is required to open up the project on a desktop device. Once installed, Pizzas R Us 2.sln can be opened within Visual Studio to view the project.
+Visual Studio installation is required to open up the project on a desktop device. Once installed, Pizzas R Us 2.sln can be opened within Visual Studio to view the project. Additionally, the application can be executed directly by opening the Pizzas R Us 2.exe file located within Pizzas R Us 2/bin/Debug.
 
 ## Demonstration
 ![Pizzas R Us GIF](https://media.giphy.com/media/LX58WgG9RsOllsNQtb/giphy.gif)
